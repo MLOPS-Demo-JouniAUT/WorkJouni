@@ -36,3 +36,5 @@ def preprocess(
 
     train.to_csv(train_set.path, index=None)
     test.to_csv(test_set.path, index=None)
+
+# Testing the pipeline run
